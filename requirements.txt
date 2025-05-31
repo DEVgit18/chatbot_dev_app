@@ -1,0 +1,14 @@
+streamlit  # Web app framework
+langchain  # Framework for AI-based applications
+openai  # If using OpenAI models
+groq  # If integrating Groq models
+transformers  # Hugging Face transformer models
+requests  # For API calls
+python-dotenv  # To manage environment variables securely
+pandas  # Data processing
+numpy  # Numerical operations
+torch  # If your chatbot has deep learning components
+sentence-transformers  # For text embeddings
+faiss-cpu  # If using vector search for retrieval
+tqdm  # Progress bars (useful for debugging/training)
+psutil  # System monitoring (if tracking memory usage)
